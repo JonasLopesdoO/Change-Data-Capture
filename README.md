@@ -22,4 +22,4 @@ Then, you can subscribe to the available channel on your org by running the foll
 java -jar target/emp-connector-0.0.1-SNAPSHOT-phat.jar <your-username> <your-password+token> /data/Employee__ChangeEvent
 ```
 
-Here the channel is the one mentioned in trailhead. Walk together by visiting the [module](https://www.quora.com)
+Here the channel is the one mentioned in trailhead. Walk together by visiting the [resource](https://trailhead.salesforce.com/content/learn/modules/change-data-capture/subscribe-to-events)
